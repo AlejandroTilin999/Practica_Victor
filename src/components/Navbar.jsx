@@ -1,4 +1,5 @@
 import  Navbar from "../src/components/Navbar"
+import  Mapa from "../src/components/Mapa"
 function Navbar(){
     return(
         <>
